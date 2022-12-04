@@ -20,7 +20,7 @@ The OCM devstats page and dashboards can be found [here](https://openclustermana
 companies. On average, there are [~1085 contributions per month](https://openclustermanagement.devstats.cncf.io/d/74/contributions-chart?orgId=1&var-period=m&var-metric=contributions&var-repogroup_name=All&var-country_name=All&var-company_name=All&var-company=all&from=now-1y&to=now) contained within [134 merged PRs per month](https://openclustermanagement.devstats.cncf.io/d/74/contributions-chart?orgId=1&var-period=m&var-metric=prs&var-repogroup_name=All&var-country_name=All&var-company_name=All&var-company=all&from=now-1y&to=now).
 - [New PRs in last year](https://openclustermanagement.devstats.cncf.io/d/15/new-prs-in-repository-groups?orgId=1).
 - The community has grown since the project entered the CNCF sandbox.
-  - We held weekly community meetings constantly. The meeting records can be found in [here](https://www.youtube.com/@OpenClusterManagement/videos) for different timezone/language community members. The average number of meeting attendees is ~10.
+  - We consistently hold weekly community meetings. The meeting records can be found [here](https://www.youtube.com/@OpenClusterManagement/videos) for different timezone/language community members. The average number of meeting attendees is ~10.
   - Number of contributors: 120+ -> **150+**
   - Github stars: 600+ -> **1000+**
   - Github forks: 330+ -> **560+**
