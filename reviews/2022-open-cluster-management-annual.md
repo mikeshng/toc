@@ -76,7 +76,7 @@ The primary goal of OCM is to enable capabilities within the Kubernetes ecosyste
     - Application add-on is now able to expose custom Prometheus metrics via the Git subscription.
 
 In the near future, we aim to achieve the following technical goals:
-- Running multiple Hub on a single cluster.
+- Running multiple Hubs on a single cluster.
 - Introduce ArgoCD pull model integration.
 - Supporting to communicate between hub and managed clusters in the proxy environment.
 - Add delete options to Managedcluster.
