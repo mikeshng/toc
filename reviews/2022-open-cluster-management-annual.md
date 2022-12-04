@@ -41,8 +41,18 @@ We have established [the contributor ladder](https://github.com/open-cluster-man
 
 ## Project adoption
 
-OCM has 
+OCM has several production environment adopters. They are:
 
+- [Alibaba Cloud](https://www.aliyun.com/)
+- [Ant Group](https://www.antgroup.com/)
+- [Red Hat](https://www.redhat.com/)
+
+There are several more projects and companies that are experimenting with OCM:
+
+- [Argo Workflow](https://argoproj.github.io/argo-workflows/)
+- [ESET](https://www.eset.com/)
+- [Expedia](https://www.expediagroup.com/)
+- [TietoEVRY](https://www.tietoevry.com/)
 
 ## Project goals
 
@@ -79,8 +89,8 @@ In the near future, we aim to achieve the following technical goals:
 - Running multiple Hubs on a single cluster.
 - Introduce ArgoCD pull model integration.
 - Support to communicate between the hub and managed clusters in a proxy environment.
-- Add delete options to Managedcluster.
-- Add-on Framework enhancements.
+- Add delete options to ManagedCluster.
+- Enhance Add-on Framework capabilities: rolling upgrade, install strategy, and install template.
 - A complete project roadmap can be found in [here](https://github.com/orgs/open-cluster-management-io/projects/2/views/9).
 
 We have built close connections with members in the CNCF organization for project integration. 
