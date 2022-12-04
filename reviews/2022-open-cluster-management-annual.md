@@ -78,7 +78,7 @@ The primary goal of OCM is to enable capabilities within the Kubernetes ecosyste
 In the near future, we aim to achieve the following technical goals:
 - Running multiple Hubs on a single cluster.
 - Introduce ArgoCD pull model integration.
-- Supporting to communicate between hub and managed clusters in the proxy environment.
+- Support to communicate between the hub and managed clusters in a proxy environment.
 - Add delete options to Managedcluster.
 - Add-on Framework enhancements.
 - A complete project roadmap can be found in [here](https://github.com/orgs/open-cluster-management-io/projects/2/views/9).
