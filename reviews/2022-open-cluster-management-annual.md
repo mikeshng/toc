@@ -48,7 +48,7 @@ OCM has
 
 The primary goal of OCM is to enable capabilities within the Kubernetes ecosystem to orchestrate across multiple clusters and cloud providers. In the past year, we have achieved the following development outcomes:
 - Release cadence: 4 minor releases, roughly once every three months. The latest release is v0.9.0.
-- Key features added to the project (complete changelog can be found in [here](https://open-cluster-management.io/community/releases/)):
+- Key features added to the project (complete changelog can be found [here](https://open-cluster-management.io/community/releases/)):
   - 0.6
     - Cluster Proxy add-on.
     - Managed SrviceAccount add-on.
