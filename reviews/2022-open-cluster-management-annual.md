@@ -50,8 +50,9 @@ The primary goal of OCM is to enable capabilities within the Kubernetes ecosyste
 - Release cadence: 4 minor releases, roughly once every three months. The latest release is v0.9.0.
 - Key features added to the project (complete changelog can be found [here](https://open-cluster-management.io/community/releases/)):
   - 0.6
-    - Cluster Proxy add-on.
-    - Managed SrviceAccount add-on.
+    - New add-ons
+      - Cluster Proxy, allows a proxied connection from the hub to a managed cluster's API ingress.
+      - Managed Service account, allows the hub to define service account and receive its token from a managed cluster.
     - Sync status of applied resources in ManifestWork API.
     - Placement extensible scheduling.
     - Helm chart interface for addon framework.
@@ -79,7 +80,7 @@ In the near future, we aim to achieve the following technical goals:
 - Running multiple Hubs on a single cluster.
 - Introduce ArgoCD pull model integration.
 - Support to communicate between the hub and managed clusters in a proxy environment.
-- Add delete options to ManagedCluster.
+- Add delete options to ManagedCluster to cleanup ManifestWorks and Addons. 
 - Enhance Add-on Framework capabilities: rolling upgrade, install strategy, and install template.
 
 A complete project roadmap can be found [here](https://github.com/orgs/open-cluster-management-io/projects/2/views/9).
@@ -91,7 +92,7 @@ We are actively looking for more user adoptions and community collaborations.
 ## How the CNCF can help to achieve the upcoming goals
 
 - More chances to advocate the project.
-- More chances to collaborate with other projects in CNCF or even out of CNCF.
+- More chances to collaborate with other projects in CNCF or even outside of CNCF.
 - Technical writing support for project documents.
 
 ## Incubation readiness
