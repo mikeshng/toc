@@ -85,7 +85,7 @@ In the near future, we aim to achieve the following technical goals:
 
 We have built close connections with members in the CNCF organization for project integration. 
 We have attended multiple conferences such as KubeCon, DevConf and others.
-We are looking for more user adoptions and community collaborations constantly.
+We are actively looking for more user adoptions and community collaborations.
 
 ## How the CNCF can help to achieve the upcoming goals
 
