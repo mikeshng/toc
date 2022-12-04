@@ -3,7 +3,7 @@
 
 ## Background
 
-[Open Cluster Management](https://open-cluster-management.io/) is a project focused on simplify managing multiple Kubernetes clusters regardless of where they are deployed. Open APIs are evolving within this project for cluster registration, work distribution, dynamic placement of policies and workloads, and much more. In doing so, OCM helps promote the overall growth and adoption of Kubernetes and its adjacent cloud-native technologies.
+[Open Cluster Management](https://open-cluster-management.io/) (OCM) is a project focused on simplifying management of multiple Kubernetes clusters regardless of where they are deployed. Open APIs are evolving within this project for cluster registration, work distribution, dynamic placement of policies and workloads, and much more. In doing so, OCM helps promote the overall growth and adoption of Kubernetes and its adjacent cloud-native technologies.
 
 Open Cluster Management (OCM) provides a framework to enable any capability within the Kubernetes ecosystem to orchestrate itself across multiple clusters and cloud providers. The built-in primitives allow an understanding of cluster inventory, cluster workload placement, and cluster workload distribution. The hub-agent model of OCM allows for new kinds of agent behavior to be injected into managed clusters easily. New behaviors can further configure clusters or collect information about clusters (such as observability data or search indexing). The project also provides two out of the box capabilities: multicluster application delivery and orchestration, multicluster policy-based governance. Additional integrations and add-ons can be easily developed through the use of OCM robust Add-on Framework.
 
